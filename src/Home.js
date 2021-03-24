@@ -13,16 +13,19 @@ function Home() {
                 <Product
                     id="00001"
                     title="B&W Carpet Label"
+                    rating= '****'
                     price={3.99}
                     image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzXd98J2LnveIztNV3WrOCqTwEqjcf17RaJ0FRTaE1egKyfFFLaadZFI1oBONwYzNNYg&usqp=CAU" />
                 <Product
                     id="00002"
                     title="Full Color Carpet Label"
+                    rating= '****'
                     price={4.99}
                     image="https://www.rippedsheets.com/images/203051-8-mil-carpet-tire-tag.JPG" />    
                 <Product
                     id="00003"
                     title="Carpet Label w/ logo"
+                    rating= '****'
                     price={5.99}
                     image="https://cache.hedgeapple.com/thumb/2020/10/x4/wzynmumrfmnt7jstu3tb75ro2h3uuk/Fiber-Pile-and-Care-Instructions.jpg" />
             </div>
